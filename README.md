@@ -176,7 +176,7 @@
       <br /><strong>Postman</strong>
     </td>
     
-    <!-- Diğer tools ekleyebilirsiniz -->
+    
   </tr>
 
   <tr>
@@ -229,6 +229,6 @@
       />
       <br /><strong>React - Spend Bill Gates Money</strong> 
     </td>
-    <!-- Diğer tools ekleyebilirsiniz -->
+   
   </tr>
 </table>
