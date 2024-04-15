@@ -1,10 +1,236 @@
 <h1 align="center">Merhaba 👋, Ben Yasin İlkyaz</h1>
 <h3 align="center">🔭Yazılım geliştirme ve teknolojiye tutkulu biriyim. 🌱GitHub profilimde, kişisel projelerimi, katkıda bulunduğum açık kaynaklı projeleri ve teknolojiyle ilgili deneyimlerimi paylaşıyorum. 📝Yazılım geliştirme alanında özellikle [java] konusunda bilgi ve deneyime sahibim. Kod yazmayı ve yeni teknolojileri keşfetmeyi seviyorum ve GitHub profilimde bu tutkumu yansıtmaya çalışıyorum.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasin-i̇lkyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-i̇lkyaz" height="30" width="40" /></a>
+
+# Let's connect 🤝
+<p align="center">
+  <a href="https://github.com/yasinilkyaz">
+    <img src="https://skillicons.dev/icons?i=github" height="75" />
+
+  <a href="mailto:yasinilkyaz@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="75" />
+
+  <a href="https://discord.com/users/yasin3601">
+    <img src="https://skillicons.dev/icons?i=discord" height="75" />
+    
+  <a href="https://www.linkedin.com/in/yasin-ilkyaz/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="75" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🔧 Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static.vecteezy.com/system/resources/previews/020/121/474/original/backend-icon-design-free-vector.jpg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Back-End</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+        width="48"
+        height="48"
+        alt="Spring Boot"
+      />
+      <br /><strong>Spring Boot</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.pngitem.com/pimgs/m/561-5615118_front-end-development-icon-clipart-png-download-transparent.png"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>Front-End</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Tailwind CSS</strong>
+    </td>
+   
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
+        width="48"  
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Vite JS</strong>
+    </td>
+    
+       
+    
+    
+  </tr>
+ 
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>Tools</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/postman.svg"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br /><strong>Postman</strong>
+    </td>
+    
+    <!-- Diğer tools ekleyebilirsiniz -->
+  </tr>
+
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static.vecteezy.com/system/resources/previews/003/738/370/non_2x/management-project-icon-free-vector.jpg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>Projects</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://github.com/Bpolat0/TourismManagement" target="_blank">
+      <img
+        src="https://github.com/Bpolat0/TourismManagement/blob/master/src/media/dashboard_light.png"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br /><strong>Tourism Management</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://github.com/Bpolat0/vetclinic" target="_blank">
+      <img
+        src="https://github.com/Bpolat0/vetclinic/blob/master/src/media/entity_relationship_diagram.svg"
+        width="48"
+        height="48"
+        alt="Insomnia"
+      />
+      <br /><strong>Vetclinic REST API</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page?tab=readme-ov-file" target="_blank">
+      <img
+        src="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page/blob/master/images/project/classes-section.png"
+        width="48"
+        height="48"
+        alt="Landing Page"
+      />
+      <br /><strong>Fully Responsive Landing</strong> 
+    </td>
+         <td align="center" height="108" width="108">
+      <a href="https://github.com/Bpolat0/SpendBillGatesMoney" target="_blank">
+      <img
+        src="https://github.com/Bpolat0/SpendBillGatesMoney/blob/master/Images/ProjectScreenShots/header-section.png"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React - Spend Bill Gates Money</strong> 
+    </td>
+    <!-- Diğer tools ekleyebilirsiniz -->
+  </tr>
+</table>
