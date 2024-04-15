@@ -143,17 +143,15 @@
       <br /><strong>Tailwind CSS</strong>
     </td>
    
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
-        width="48"  
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Vite JS</strong>
-    </td>
-    
-       
+<td align="center" height="108" width="108">
+  <img
+    src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
+    width="48"  
+    height="48"
+    alt="Vite JS"
+  />
+  <br /><strong>Vite JS</strong>
+</td>
     
     
   </tr>
