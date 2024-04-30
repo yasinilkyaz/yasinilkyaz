@@ -190,19 +190,19 @@
       <br /><strong>Projects</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/TourismManagement" target="_blank">
+      <a href="https://github.com/yasinilkyaz/TourismAgency" target="_blank">
       <img
-        src="https://github.com/Bpolat0/TourismManagement/blob/master/src/media/dashboard_light.png"
+        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
         width="48"
         height="48"
         alt="Postman"
       />
-      <br /><strong>Tourism Management</strong>
+      <br /><strong>Tourism Agency</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/vetclinic" target="_blank">
+      <a href="https://github.com/yasinilkyaz/vet-app" target="_blank">
       <img
-        src="https://github.com/Bpolat0/vetclinic/blob/master/src/media/entity_relationship_diagram.svg"
+        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
         width="48"
         height="48"
         alt="Insomnia"
@@ -210,24 +210,24 @@
       <br /><strong>Vetclinic REST API</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page?tab=readme-ov-file" target="_blank">
+      <a href="https://github.com/yasinilkyaz/Question-App" target="_blank">
       <img
-        src="https://github.com/Bpolat0/Full-Responsive_Sport-Center-Landing-Page/blob/master/images/project/classes-section.png"
+        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
         width="48"
         height="48"
         alt="Landing Page"
       />
-      <br /><strong>Fully Responsive Landing</strong> 
+      <br /><strong>Question App</strong> 
     </td>
          <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/SpendBillGatesMoney" target="_blank">
+      <a href="https://github.com/yasinilkyaz/LibraryManagement" target="_blank">
       <img
-        src="https://github.com/Bpolat0/SpendBillGatesMoney/blob/master/Images/ProjectScreenShots/header-section.png"
+        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>React - Spend Bill Gates Money</strong> 
+      <br /><strong>Library Management</strong> 
     </td>
    
   </tr>
